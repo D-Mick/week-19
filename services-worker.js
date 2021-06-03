@@ -3,7 +3,7 @@ var cacheFiles = [
     'index.html',
     'product.js',
     'petstore.webmanifest',
-    'image/logo_1.png',
+    'image/logo_ 1.png',
     'image/weblogo.png'
 ];
 
